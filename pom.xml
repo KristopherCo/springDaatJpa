@@ -117,7 +117,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
             <scope>test</scope>
         </dependency>
         <!--要使用Spring-Data-Jpa，关于jpa的配置是放在Spring配置文件中，所以要引入spring测试依赖-->
